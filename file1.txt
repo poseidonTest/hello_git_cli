@@ -4,3 +4,4 @@ third
 forth
 fifth -my branch
 my br1 sixth commit 
+some hot fix
